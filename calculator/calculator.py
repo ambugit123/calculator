@@ -1,5 +1,5 @@
 """
-Calculator library containing basic math operations.
+ The Calculator library containing basic math operations.
 """
 
 def add(first_term, second_term):
